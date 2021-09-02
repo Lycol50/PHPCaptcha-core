@@ -3,6 +3,7 @@ A Browser based Captcha Generator with a lot of security features + Discord Webh
 
 ## DISCONTINUE NOTICE
 > I will discontinue the development of **v1 of PHPCaptcha** to give way to _more and functional v2, with integrated MySQL, and discord bot for verfication of users_.
+> V2 Repository can be found here -> https://github.com/Lycol50/PHPCaptcha
 
 ## How to use
 Simply clone this repository and put the files on the root of webserver
